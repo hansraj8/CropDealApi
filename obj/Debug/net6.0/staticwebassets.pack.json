@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\image\\football.jpg",
+      "PackagePath": "staticwebassets\\image\\football.jpg"
+    },
+    {
+      "Id": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\uploads\\crops\\1\\image.jpg",
+      "PackagePath": "staticwebassets\\uploads\\crops\\1\\image.jpg"
+    },
+    {
+      "Id": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\uploads\\crops\\2\\image.jpg",
+      "PackagePath": "staticwebassets\\uploads\\crops\\2\\image.jpg"
+    },
+    {
+      "Id": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\uploads\\crops\\3\\image.jpg",
+      "PackagePath": "staticwebassets\\uploads\\crops\\3\\image.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CaseStudy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CaseStudy.props",
+      "PackagePath": "build\\CaseStudy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CaseStudy.props",
+      "PackagePath": "buildMultiTargeting\\CaseStudy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CaseStudy.props",
+      "PackagePath": "buildTransitive\\CaseStudy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
