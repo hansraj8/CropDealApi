@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vtfR2ktsfzCpiLF6nYUUeCqozDrgok3xsOrW42cpnB4=",
+  "Hash": "NqTG6JOooEiTe0wFkHRDFgCI5aBm8OmFSz0bx9NkTzg=",
   "Source": "CaseStudy",
   "BasePath": "_content/CaseStudy",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CaseStudy\\wwwroot",
       "Source": "CaseStudy",
-      "ContentRoot": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\wwwroot\\",
       "BasePath": "_content/CaseStudy",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\image\\football.jpg",
+      "Identity": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\wwwroot\\image\\football.jpg",
       "SourceId": "CaseStudy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\wwwroot\\",
       "BasePath": "_content/CaseStudy",
       "RelativePath": "image/football.jpg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\image\\football.jpg"
     },
     {
-      "Identity": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\uploads\\crops\\1\\image.jpg",
+      "Identity": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\wwwroot\\uploads\\crops\\1\\image.jpg",
       "SourceId": "CaseStudy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\wwwroot\\",
       "BasePath": "_content/CaseStudy",
       "RelativePath": "uploads/crops/1/image.jpg",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\crops\\1\\image.jpg"
     },
     {
-      "Identity": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\uploads\\crops\\2\\image.jpg",
+      "Identity": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\wwwroot\\uploads\\crops\\2\\image.jpg",
       "SourceId": "CaseStudy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\wwwroot\\",
       "BasePath": "_content/CaseStudy",
       "RelativePath": "uploads/crops/2/image.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\crops\\2\\image.jpg"
     },
     {
-      "Identity": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\uploads\\crops\\3\\image.jpg",
+      "Identity": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\wwwroot\\uploads\\crops\\3\\image.jpg",
       "SourceId": "CaseStudy",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\wwwroot\\",
       "BasePath": "_content/CaseStudy",
       "RelativePath": "uploads/crops/3/image.jpg",
       "AssetKind": "All",

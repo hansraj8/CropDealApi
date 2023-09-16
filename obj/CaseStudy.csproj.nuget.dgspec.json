@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\CaseStudy.csproj": {}
+    "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\CaseStudy.csproj": {}
   },
   "projects": {
-    "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\CaseStudy.csproj": {
+    "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\CaseStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\CaseStudy.csproj",
+        "projectUniqueName": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\CaseStudy.csproj",
         "projectName": "CaseStudy",
-        "projectPath": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\CaseStudy.csproj",
-        "packagesPath": "C:\\Users\\hansshar\\.nuget\\packages\\",
-        "outputPath": "C:\\cropdeal main\\New folder\\CropDeal-main\\CropDeal-main\\CropDealFinal\\obj\\",
+        "projectPath": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\CaseStudy.csproj",
+        "packagesPath": "C:\\Users\\Abhishek Kumar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abhishek Kumar\\OneDrive\\Desktop\\Crop-Deal-Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hansshar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Abhishek Kumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -106,7 +106,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -19,7 +19,7 @@ namespace CaseStudy.Models
     
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"data source=.\SQLEXPRESS;database=CropDealFinalDb;integrated security=SSPI");
+            optionsBuilder.UseSqlServer(@"data source=.\MSSQLSERVER01;database=CropDealFinalDb;integrated security=SSPI");
             base.OnConfiguring(optionsBuilder);
         } 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
